@@ -1,9 +1,11 @@
-## Internet Friends, Inc. is a company started by [Alex Reyes](https://www.alexreyes.dev) and [Neo Cho](https://neooo.xyz/). 
+# Internet Friends, Inc. 
 
-We're building an app called [Daylight](https://daylightapp.xyz/) -- an app for making groupchats for photos.
+## Working on: [Daylight](https://daylightapp.xyz/) -- an app for making groupchats for photos.
 
-Previously we worked on an ~~ethereum wallet you can use with your friends called [Wagmi wallet](https://www.wagmiapp.com/)~~ RIP wagmi
+Previously we worked on: [Wagmi Wallet](https://www.wagmiapp.com/) - ~~an ethereum wallet you can use with your friends~~ RIP wagmi
 
-You can find our website here: [internetfriends.io](https://internetfriends.io)
+Founders: [Alex Reyes](https://www.alexreyes.dev) and [Neo Cho](https://neooo.xyz/)
 
 [YC S22](https://www.ycombinator.com/companies/internet-friends)
+
+[internetfriends.io](https://internetfriends.io)
