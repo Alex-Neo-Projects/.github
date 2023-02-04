@@ -1,8 +1,10 @@
 # Internet Friends, Inc. 
 
-## Working on: [Daylight](https://daylightapp.xyz/) -- an app for making groupchats for photos.
+## Working on: [Bagels](https://github.com/Alex-Neo-Projects/bagels) -- a prototyping tool to make writing smart contracts 10x faster.
 
-Previously we worked on: [Wagmi Wallet](https://www.wagmiapp.com/) - ~~an ethereum wallet you can use with your friends~~ RIP wagmi
+Previously we worked on: 
+- [Daylight](https://www.daylightapp.xyz/) - ~~a photo only groupchats app~~ RIP daylight
+- [Wagmi Wallet](https://www.wagmiapp.com/) - ~~an ethereum wallet you can use with your friends~~ RIP wagmi
 
 Founders: [Alex Reyes](https://www.alexreyes.dev) and [Neo Cho](https://neooo.xyz/)
 
