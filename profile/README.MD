@@ -1,6 +1,6 @@
 # Internet Friends, Inc. 
 
-## Pivoting in progress...
+## Pivot in progress...
 
 Previously we worked on: 
 - [Bagels](https://github.com/Alex-Neo-Projects/bagels) -- a prototyping tool to make writing smart contracts 10x faster
