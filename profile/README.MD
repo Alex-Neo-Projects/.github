@@ -1,6 +1,6 @@
 # Internet Friends, Inc. 
 
-## Pivot in progress...
+## Working on [Cadence: a running app you can use to train for races with your friends](https://www.cadencerunning.com/)
 
 Previously we worked on: 
 - [Bagels](https://github.com/Alex-Neo-Projects/bagels) -- a prototyping tool to make writing smart contracts 10x faster
